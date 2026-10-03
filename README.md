@@ -363,7 +363,7 @@ cluster/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <[YOUR_GITHUB_REPOSITORY_URL](https://github.com/Jovita15-anto/Customer-Segmentation-Studio.git)>
 cd cluster
 ```
 
